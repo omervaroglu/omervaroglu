@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-This is **Ömer**. I am an **iOS Developer** based in **Istanbul**
+This is **Ömer**. I am an **iOS Developer** in **Istanbul**
 
 - 💻 I’m currently working at **[Basefy](https://www.basefy.com)**
 - 🌱 I’m currently learning **[SwiftUI](https://developer.apple.com/documentation/swiftui)**

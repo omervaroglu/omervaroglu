@@ -2,7 +2,7 @@
 
 This is **Ömer**. I am an **iOS Developer** in **Istanbul**
 
-- 💻 I’m currently working at **[Basefy](https://www.basefy.com)**
+- 💻 I’m currently working at **[Carla](https://rentcarla.com)**
 - 🌱 I’m currently learning **[SwiftUI](https://developer.apple.com/documentation/swiftui)**
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">

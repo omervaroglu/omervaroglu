@@ -2,7 +2,6 @@
 
 This is **Ömer**. I am an **iOS Developer** in **Istanbul**
 
-- 💻 I’m currently working at **[Teknasyon](https://teknasyon.com)**
 - 📍 I'm doing practice about SwiftUI
 
 
